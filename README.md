@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&left=true&vCenter=true&width=1000&lines=Oioi!+Eu+sou+o+Smola!;Eu+curso+Desenvolvimento+de+Sistemas+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
@@ -39,4 +41,6 @@
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 <!-- inspired by @Izaazz -->
