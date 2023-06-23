@@ -20,8 +20,8 @@
   
 
   <img style="height: auto; width: 60%;" class="img" src="https://streak-stats.demolab.com?user=smolinskiJP&theme=transparent&ring=191970&sideLabels=191970&fire=191970&sideNums=191970&currStreakNum=191970&currStreakLabel=191970&dates=9F9F9F](https://git.io/streak-stats)" />
-&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="25%" src="https://github.com/smolinskiJP/smolinskiJP/blob/main/jojo.gif">
+&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="13%" src="https://github.com/smolinskiJP/smolinskiJP/blob/main/jojo.gif">
 
 </div>
 
