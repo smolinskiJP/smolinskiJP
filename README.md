@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6970&size=35&left=true&vCenter=true&width=1000&lines=Oioi!+Eu+sou+o+Smola!;Eu+curso+Desenvolvimento+de+Sistemas+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&left=true&vCenter=true&width=1000&lines=Oioi!+Eu+sou+o+Smola!;Eu+curso+Desenvolvimento+de+Sistemas+no+Coltec-UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 
 ## 📊 &nbsp;Estatísticas
 
 <div style="display: flex; flex-direction: row;">
   
-  <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smolinskiJP&layout=compact&text_color=9f9f9f&title_color=FF6970&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/smolinskiJP/github-readme-stats)"/>
+  <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smolinskiJP&layout=compact&text_color=9f9f9f&title_color=191970&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/smolinskiJP/github-readme-stats)"/>
 
-  <img style= "height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=smolinskiJP&hide=contribs,prs&show_icons=true&title_color=FF6970&text_color=9f9f9f&bg_color=00000000&icon_color=2BB0F0&hide_rank=true" />
+  <img style= "height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=smolinskiJP&hide=contribs,prs&show_icons=true&title_color=191970&text_color=9f9f9f&bg_color=00000000&icon_color=2BB0F0&hide_rank=true" />
             
   <a href="https://github.com/anuraghazra/github-readme-stats">
               
@@ -19,9 +19,9 @@
 <div style="display: flex; flex-direction: row;">
   
 
-  <img style="height: auto; width: 60%;" class="img" src="https://streak-stats.demolab.com?user=smolinskiJP&theme=transparent&ring=FF6970&sideLabels=FF6970&fire=FF6970&sideNums=FF6970&currStreakNum=FF6970&currStreakLabel=FF6970&dates=9F9F9F](https://git.io/streak-stats)" />
+  <img style="height: auto; width: 60%;" class="img" src="https://streak-stats.demolab.com?user=smolinskiJP&theme=transparent&ring=191970&sideLabels=191970&fire=191970&sideNums=191970&currStreakNum=191970&currStreakLabel=191970&dates=9F9F9F](https://git.io/streak-stats)" />
 &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="25%" src="https://github.com/Izaazz/Izaazz/blob/main/kirby.gif">
+  <img width="25%" src="https://github.com/smolinskiJP/smolinskiJP/blob/main/jojo.gif">
 
 </div>
 
