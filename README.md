@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&left=true&vCenter=true&width=1000&lines=Oioi!+Eu+sou+o+Smola!;Eu+curso+Ciência+de+Dados+na+UFMG;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
 ## 📊 &nbsp;Estatísticas
 
 <div style="display: flex; flex-direction: row;">
@@ -44,3 +43,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
 <!-- inspired by @Izaazz -->
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
