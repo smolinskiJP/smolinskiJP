@@ -57,16 +57,16 @@
 
 \mmlToken{ms}[fontfamily="
 goombafont;
-color:red;
 pointer-events:none;
 z-index: -11;
 position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
-width: 130vw;
-opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+width: 100vw;
+height: 100vh;
+opacity: 0.1;
+background: url('https://raw.githubusercontent.com/smolinskiJP/smolinskiJP/main/wallpaperflare.com_wallpaper.jpg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
