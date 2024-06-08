@@ -89,7 +89,7 @@ color:transparent;
 pointer-events: none;
 position: fixed;
 inset: 0;
-backdrop-filter: saturate(2) blur(10px) opacity(0.2);
+backdrop-filter: saturate(10) blur(10px) opacity(0);
 "]{}
 
 \mmlToken{ms}[fontfamily="
